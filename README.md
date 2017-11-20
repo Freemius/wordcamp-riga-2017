@@ -1,4 +1,5 @@
-# WordCamp Riga 2017
+# A crash course on Building a Sustainable WordPress Plugin / Theme Business In The Subscription Economy - WordCamp Riga 2017
+![Plugin settings](/Screenshot%202017-11-20%2012.57.29.png)
 
 * [Selling Plugins VS. Themes](https://freemius.com/blog/themeforest-or-codecanyon-sell-plugins-or-themes/)
 * Going Niche VS. Mass Market
@@ -13,3 +14,14 @@
 * Where and how to sell
   * [Marketplace VS. Self-Hosted Store](https://freemius.com/blog/mike-stott-wordpress-business/)
 * Q&A
+
+## Bonus Resources
+* [WordPress Plugin Business Book](https://freemius.com/wordpress-plugin-business-book/)
+
+## Speaker: Vova Feldman
+Twitter: [@vovafeldman](https://twitter.com/vovafeldman)
+
+Email: [vova@freemius.com](mailto:vova@freemius.com)
+
+Website: [freemius.com](https://freemius.com)
+
