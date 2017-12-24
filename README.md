@@ -1,4 +1,9 @@
 # A crash course on Building a Sustainable WordPress Plugin / Theme Business In The Subscription Economy - WordCamp Riga 2017
+
+Watch the presentation on WordPress.tv:
+
+https://wordpress.tv/2017/12/20/vova-feldman-how-to-build-a-sustainable-plugin-or-theme-business-in-the-subscription-economy/
+
 ![Plugin settings](/Screenshot%202017-11-20%2012.57.29.png)
 
 * [Selling Plugins VS. Themes](https://freemius.com/blog/themeforest-or-codecanyon-sell-plugins-or-themes/)
