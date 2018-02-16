@@ -4,7 +4,13 @@ Watch the presentation on WordPress.tv:
 
 https://wordpress.tv/2017/12/20/vova-feldman-how-to-build-a-sustainable-plugin-or-theme-business-in-the-subscription-economy/
 
+Slides:
+
+https://www.slideshare.net/vovafeldman1/building-a-sustainable-wordpress-plugin-theme-business-in-the-subscription-economy
+
 ![Plugin settings](/Screenshot%202017-11-20%2012.57.29.png)
+
+## In-depth Posts on Covered Topics
 
 * [Selling Plugins VS. Themes](https://freemius.com/blog/themeforest-or-codecanyon-sell-plugins-or-themes/)
 * Going Niche VS. Mass Market
