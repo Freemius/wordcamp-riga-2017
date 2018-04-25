@@ -13,7 +13,7 @@ https://www.slideshare.net/vovafeldman1/building-a-sustainable-wordpress-plugin-
 ## In-depth Posts on Covered Topics
 
 * [Selling Plugins VS. Themes](https://freemius.com/blog/themeforest-or-codecanyon-sell-plugins-or-themes/)
-* Going Niche VS. Mass Market
+* [Going Niche VS. Mass Market](https://freemius.com/blog/niche-vs-mass-market/)
 * Selecting the right business model
   * [Freemium VS. Premium](https://freemius.com/blog/premium-versus-freemium-wordpress-plugins/)
   * [Add-Ons VS. Plans](https://freemius.com/blog/premium-vs-add-ons-which-is-the-best-monetization-model-for-your-wordpress-plugin/)
